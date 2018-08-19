@@ -1,5 +1,5 @@
 # The-Fake
-The Fake. Give Me Fake. And I Will Give You Fuck
+The-Fake-Master
 
 The Fake is spammer tools defacer.id
 You need cpanel here.
@@ -10,7 +10,7 @@ You need cpanel here.
 Ex: *.yourdomain.com
 
 Setup The-Fake:
-$git clone https://github.com/soracyberteam/the-fake/
+$git clone https://github.com/kerambit5005/The-Fake-Master
 $cd the-fake
 $chmod 777 setup.sh
 $./setup.sh
